@@ -50,10 +50,12 @@ const styles = StyleSheet.create({
     paddingEnd: 14,
     paddingStart: 14
   },
+
   actionButtons: {
     alignItems: 'center',
     marginRight: 28
   },
+
   buttonArea: {
     backgroundColor: '#ecf0f1',
     height: 60,
@@ -62,6 +64,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center'
   },
+
   labelButton: {
     marginTop: 4,
     textAlign: 'center',
